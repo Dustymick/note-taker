@@ -5,3 +5,4 @@ The goal of this project was to create a daily note taking application that can 
 ![image](https://user-images.githubusercontent.com/75334749/110259268-61dcfc00-7f6c-11eb-896c-ec1fc9374502.png)
 
 ##
+![image](https://user-images.githubusercontent.com/75334749/110259383-019a8a00-7f6d-11eb-9468-175c486e2cf3.png)
