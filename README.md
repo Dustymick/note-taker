@@ -5,6 +5,10 @@ The goal of this project is to create a note taking application that can help st
 https://dustymick.github.io/note-taker/
 
 ##
+Heroku:
+https://note-taker-5.herokuapp.com/
+
+##
 ![image](https://user-images.githubusercontent.com/75334749/110259268-61dcfc00-7f6c-11eb-896c-ec1fc9374502.png)
 
 ##
