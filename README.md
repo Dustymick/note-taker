@@ -2,9 +2,6 @@
 The goal of this project is to create a note taking application that can help store and organize appointments, to-dos, and general items related to daily note-taking and organization.  
 
 ##
-https://dustymick.github.io/note-taker/
-
-##
 Heroku:
 https://note-taker-5.herokuapp.com/
 
